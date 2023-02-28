@@ -7,13 +7,13 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Mindscapes-Subdomain
+    Title: Mindscapes
     Content: >
       - 歡迎來到 Wingster 的部落格
 
       - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
       
-      - 若你想跟我交流想法，歡迎透過 ✉️ Email (wingsterlai@gmail.com) 與我聯繫
+      - 若你想跟我交流想法，歡迎透過 Email ✉️ <wingsterlai@gmail.com> 與我聯繫
 
   socialIcons: # optional
         - name: "facebook"
@@ -21,10 +21,10 @@ params:
         - name: "instagram"
           url: "https://www.instagram.com/wingsterlai/"
         - name: "email"
-          url: "mailto:karita82@gmail.com"
+          url: "mailto:wingsterlai@gmail.com"
   
   cover:
-    linkFullImages: true
+    linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
   ShowBreadCrumbs: true
 
