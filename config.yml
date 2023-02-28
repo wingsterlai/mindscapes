@@ -1,4 +1,4 @@
-baseURL: "https://wingster.cc/"
+baseURL: "https://mindscapes.wingster.cc/"
 languageCode: en-us
 title: Mindscapes
 theme: PaperMod
@@ -7,7 +7,7 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: Mindscapes
+    Title: Mindscapes-Subdomain
     Content: >
       - 歡迎來到 Wingster 的部落格
 
