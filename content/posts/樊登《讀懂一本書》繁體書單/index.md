@@ -6,10 +6,10 @@ cover:
     image: 
     alt: 'FanDan Book Cover'
     caption: ''
-categories:
-    - book
-tags:
-    - book
+categories: ["book"]
+tags: ["book"]
+ShowToc: true
+TocOpen: false
 ---
 
     

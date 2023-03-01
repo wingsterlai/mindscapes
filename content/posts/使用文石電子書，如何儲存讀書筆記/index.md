@@ -6,10 +6,10 @@ cover:
     image:  
     alt: ''
     caption: ''
-categories:
-    - 電子閱讀器
-tags:
-    - e-reader
+categories: ["電子閱讀器"]
+tags: ["e-reader"]
+ShowToc: true
+TocOpen: false
 ---
 
 我自己在使用文石的時候，因為功能很多，很多功能又只顯示 Icon ， Icon 很多又不是很常見，於是常常會出現功能很多但是不知道怎麼用，最後就會每一個都點點看，真的需要使用某功能又浪費了很多時間尋找。
