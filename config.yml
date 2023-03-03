@@ -22,6 +22,7 @@ params:
           url: "https://www.instagram.com/wingsterlai/"
         - name: "email"
           url: "mailto:wingsterlai@gmail.com"
+     
   
   cover:
     linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
