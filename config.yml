@@ -60,8 +60,8 @@ menu:
 
 assets:
     disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "/favicon.ico"
+    # disableFingerprinting: true 
+    favicon: "/assets/favicon.ico"
     favicon16x16: "/favicon.ico"
     favicon32x32: "/favicon.ico"
     apple_touch_icon: "/favicon.ico"
