@@ -27,11 +27,21 @@ params:
   cover:
     linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
-  ShowBreadCrumbs: true
   ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: false
-  comments: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
 menu:
   main:
@@ -47,3 +57,12 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon.ico"
+    favicon32x32: "/favicon.ico"
+    apple_touch_icon: "/favicon.ico"
+    safari_pinned_tab: "/favicon.ico"
