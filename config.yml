@@ -5,6 +5,7 @@ theme: PaperMod
 
 
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema. 
   homeInfoParams:
     Title: Mindscapes
     Content: >
@@ -27,12 +28,10 @@ params:
     linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
   ShowBreadCrumbs: true
-
   ShowReadingTime: true
-
   ShowShareButtons: false
-
   ShowPostNavLinks: false
+  comments: true
 
 menu:
   main:
