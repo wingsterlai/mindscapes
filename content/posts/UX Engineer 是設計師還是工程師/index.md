@@ -8,8 +8,6 @@ cover:
     caption: 'Photo by Christina @ wocintechchat.com on Unsplash'
 categories: [""]
 tags: ["UX", "design", "UXE"]
-ShowToc: true
-TocOpen: false
 ---
 
 ## 前言

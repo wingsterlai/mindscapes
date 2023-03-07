@@ -1,8 +1,15 @@
 baseURL: "https://mindscapes.wingster.cc/"
-languageCode: en-us
+languageCode: zh-tw
 title: Mindscapes
 theme: PaperMod
 
+enableInlineShortcodes: true #允许内联短码
+enableEmoji: true # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
+
+hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
+
+paginate: 8    # 每页显示的文章数
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
@@ -14,6 +21,8 @@ params:
       - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
       
       - 若你想跟我交流想法，歡迎透過 Email ✉️ <wingsterlai@gmail.com> 與我聯繫
+
+
 
   socialIcons: # optional
         - name: "facebook"
@@ -27,21 +36,22 @@ params:
   cover:
     linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
+  // DateFormat: "2006-01-02"
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowWordCount: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
-  hidemeta: false
+  hidemeta: false # 是否隐藏文章的元信息，如发布日期、作者等
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true # 显示目录
+  tocopen: true # 自动展开目录
 
 menu:
   main:

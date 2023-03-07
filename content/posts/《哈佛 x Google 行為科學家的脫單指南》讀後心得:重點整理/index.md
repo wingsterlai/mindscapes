@@ -8,8 +8,6 @@ cover:
     caption: ''
 categories: ["book"]
 tags: ["book"]
-ShowToc: true
-TocOpen: false
 ---
 
 ## 這本書在說什麼

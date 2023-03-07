@@ -8,8 +8,6 @@ cover:
     caption: ''
 categories: ["閒聊"]
 tags: ["Kindle", "e-reader", "Reading"]
-ShowToc: true
-TocOpen: false
 ---
 
 最近把買了一年的文石 Note5 電子閱讀器賣掉，忍不住誘惑還是買了一台 Kindle Paperwhite 5，這算是我人生中買的第三台 Kindle（第一台逛通化街被偷，不得不說小偷很有品味，第二台則是因為當時有文石，所以就送給需要的親友）。
