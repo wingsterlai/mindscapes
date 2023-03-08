@@ -11,6 +11,13 @@ hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章�
 
 paginate: 8    # 每页显示的文章数
 
+disqusShortname: mindscapes-w
+disqus:
+  enable: true
+  shortname: mindscapes-w
+  count: true
+comments: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
   homeInfoParams:
@@ -21,8 +28,6 @@ params:
       - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
       
       - 若你想跟我交流想法，歡迎透過 Email ✉️ <wingsterlai@gmail.com> 與我聯繫
-
-
 
   socialIcons: # optional
         - name: "facebook"
@@ -43,7 +48,9 @@ params:
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
+
   
+
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
