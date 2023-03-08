@@ -13,6 +13,12 @@ paginate: 8    # 每页显示的文章数
 
 
 
+disqus:
+    enable: true
+    shortname: mindscapes-w
+    count: true
+  comments: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
   homeInfoParams:
@@ -44,11 +50,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
 
-  disqus:
-    enable: true
-    shortname: mindscapes-w
-    count: true
-  comments: true
+  
 
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
