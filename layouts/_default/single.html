@@ -52,13 +52,15 @@
     {{- end }}
   </footer>
 
+  <div class="disqus markdown">
+    {{ partial "disqus.html" . }}
+  </div>
+
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
 
-<div class="disqus markdown">
-  {{ partial "disqus.html" . }}
-</div>
+
 
 {{- end }}{{/* end main */}}
