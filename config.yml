@@ -33,6 +33,8 @@ params:
           url: "https://www.facebook.com/wingsterlai"
         - name: "instagram"
           url: "https://www.instagram.com/wingsterlai/"
+        - name: "medium"
+          url: "https://medium.com/@wingster"
         - name: "email"
           url: "mailto:wingsterlai@gmail.com"
      
