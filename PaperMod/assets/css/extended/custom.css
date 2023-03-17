@@ -1,0 +1,4 @@
+/* Increase the default width of the page. */
+.main {
+  max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
