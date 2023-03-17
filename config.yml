@@ -6,9 +6,7 @@ theme: PaperMod
 enableInlineShortcodes: true #允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
 enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
-
 hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
-
 paginate: 8    # 每页显示的文章数
 
 #disqus
@@ -35,10 +33,11 @@ params:
           url: "https://www.facebook.com/wingsterlai"
         - name: "instagram"
           url: "https://www.instagram.com/wingsterlai/"
+        - name: "medium"
+          url: "https://medium.com/@wingster"
         - name: "email"
           url: "mailto:wingsterlai@gmail.com"
      
-  
   cover:
     linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
@@ -49,9 +48,6 @@ params:
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-
-  
-
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -76,11 +72,3 @@ menu:
       url: /archives/
       weight: 30
 
-assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
