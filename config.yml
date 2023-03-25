@@ -16,14 +16,6 @@ disqus:
     shortname: mindscapes-w
     count: true
 
-assets: 
-  disableHLJS: true 
-  #favicon: "favicon.ico" 
-  #favicon_dark: "favicon_dark.png" 
-  #favicon16x16: "favicon-16x16.png" 
-  #favicon32x32: "favicon-32x32.png" 
-  #apple_touch_icon: "apple-touch-icon.png" 
-  #safari_pinned_tab: "safari-pinned-tab.svg" 
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
