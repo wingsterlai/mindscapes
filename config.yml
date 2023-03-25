@@ -7,46 +7,45 @@ enableInlineShortcodes: true #允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
 enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
 hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
-paginate: 8    # 每页显示的文章数
+paginate: 8 # 每页显示的文章数
 
 #disqus
 disqusShortname: mindscapes-w
 disqus:
-    enable: true
-    shortname: mindscapes-w
-    count: true
+  enable: true
+  shortname: mindscapes-w
+  count: true
 
- assets: 
-    disableHLJS: true 
-    favicon: "/static/favicon.ico" 
-    dark_favicon: "/static/favicon_dark.png" 
-    favicon16x16: "/static/favicon-16x16.png" 
-    favicon32x32: "/static/favicon-32x32.png" 
-    apple_touch_icon: "/static/apple-touch-icon.png" 
-    safari_pinned_tab: "/static/safari-pinned-tab.svg" 
-
+assets:
+  disableHLJS: true
+  favicon: "/static/favicon.ico"
+  dark_favicon: "/static/favicon_dark.png"
+  favicon16x16: "/static/favicon-16x16.png"
+  favicon32x32: "/static/favicon-32x32.png"
+  apple_touch_icon: "/static/apple-touch-icon.png"
+  safari_pinned_tab: "/static/safari-pinned-tab.svg"
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema. 
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   homeInfoParams:
     Title: Mindscapes
     Content: >
       - 歡迎來到 Wingster 的部落格
 
       - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
-      
+
       - 若你想跟我交流想法，歡迎透過 Email ✉️ <wingsterlai@gmail.com> 與我聯繫
 
   socialIcons: # optional
-        - name: "facebook"
-          url: "https://www.facebook.com/wingsterlai"
-        - name: "instagram"
-          url: "https://www.instagram.com/wingsterlai/"
-        - name: "medium"
-          url: "https://medium.com/@wingster"
-        - name: "email"
-          url: "mailto:wingsterlai@gmail.com"
-     
+    - name: "facebook"
+      url: "https://www.facebook.com/wingsterlai"
+    - name: "instagram"
+      url: "https://www.instagram.com/wingsterlai/"
+    - name: "medium"
+      url: "https://medium.com/@wingster"
+    - name: "email"
+      url: "mailto:wingsterlai@gmail.com"
+
   cover:
     linkFullImages: true //點擊每個 post 的 cover image 會開啟新視窗並放大
 
@@ -80,11 +79,3 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
-
- assets: 
-     disableHLJS: true 
-     favicon: "<link / abs url>" 
-     favicon16x16: "<link / abs url>" 
-     favicon32x32: "<link / abs url>" 
-     apple_touch_icon: "<link / abs url>" 
-     safari_pinned_tab: "<link / abs url>" 
