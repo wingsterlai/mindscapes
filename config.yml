@@ -29,24 +29,9 @@ assets:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
   
-  mainSections:
-    - profile
-  
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: Mindscapes
-    subtitle: ""
-    imageUrl: "experiment.png"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: Wingster Logo
-    buttons:
-      - name: Blog
-        url: https://mindscapes.wingster.cc/
-      - name: Tags
-        url: https://mindscapes.wingster.cc/tags/
 
+  
+  
   
   homeInfoParams:
     Title: Mindscapes
