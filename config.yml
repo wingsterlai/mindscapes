@@ -1,4 +1,4 @@
-baseURL: "https://mindscapes.wingster.cc/"
+baseURL: "https://wingster.cc/"
 languageCode: zh-tw
 title: Mindscapes
 theme: PaperMod
@@ -25,13 +25,8 @@ assets:
   apple_touch_icon: "/static/apple-touch-icon.png" 
   safari_pinned_tab: "/static/safari-pinned-tab.svg" 
 
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
-  
-
-  
-  
   
   homeInfoParams:
     Title: Mindscapes
