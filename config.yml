@@ -20,6 +20,7 @@ disqus:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
   
+  
   homeInfoParams:
     Title: Mindscapes
     Content: >
@@ -72,6 +73,16 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+assets:
+    disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true 
+    favicon: "favicon.ico"
+    favicon16x16: "favicon.ico"
+    favicon32x32: "favicon.ico"
+    apple_touch_icon: "favicon.ico"
+    safari_pinned_tab: "favicon.ico"
+
 
 
 
