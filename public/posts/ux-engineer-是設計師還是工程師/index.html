@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>UX Engineer 是設計師還是工程師？ | Mindscapes</title>
+<meta name="keywords" content="UX, design, UXE">
+<meta name="description" content="前言 最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的">
+<meta name="author" content="">
+<link rel="canonical" href="https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6f56d86414b43f0172e38c7490334a67c8087549b1ddd86ad16ee20f6d4966cf.css" integrity="sha256-b1bYZBS0PwFy44x0kDNKZ8gIdUmx3dhq0W7iD21JZs8=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
+    onload="hljs.initHighlightingOnLoad();"></script>
+<link rel="icon" href="https://wingster.cc/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://wingster.cc/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://wingster.cc/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://wingster.cc/apple-touch-icon.png">
+<link rel="mask-icon" href="https://wingster.cc/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="UX Engineer 是設計師還是工程師？" />
+<meta property="og:description" content="前言 最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/" />
+<meta property="og:image" content="https://wingster.cc/uxe_cover.png" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-10-12T20:04:42+08:00" />
+<meta property="article:modified_time" content="2022-10-12T20:04:42+08:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://wingster.cc/uxe_cover.png" />
+<meta name="twitter:title" content="UX Engineer 是設計師還是工程師？"/>
+<meta name="twitter:description" content="前言 最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://wingster.cc/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "UX Engineer 是設計師還是工程師？",
+      "item": "https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "UX Engineer 是設計師還是工程師？",
+  "name": "UX Engineer 是設計師還是工程師？",
+  "description": "前言 最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的",
+  "keywords": [
+    "UX", "design", "UXE"
+  ],
+  "articleBody": "前言 最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的職業，以及他從設計師轉換到 UXE 的心路歷程。\n因為自己本身是設計師背景，所以對這個主題蠻好奇的，也希望可以提供給設計師們多一個職涯規劃的選項。\n下面記錄了這次演講的心得和重點，對於想認識 UXE 這個職業，還有身為設計師到底該不該去學 coding 會有一些不一樣想法。\n附註：Siva 本身目前在 Netflix 任職約一年，之前在 Microsoft 原本是當 UX Designer，後來花了一兩年自學 HTML/CSS 和 Javascript，然後開始在公司做一些需要 coding 的小專案，四年後正式轉職到 UXE 的職位（毅力驚人）。\nTakeaway 什麼是 UXE？ UXE 在幹嘛？ 你適合當 UXE 嗎？ 免責聲明 在開始這個主題之前，Siva 有特別強調兩點：\nThis is not a call to UXDs to start coding\n這場演講並不是要鼓吹每個 UX Designer 都跑去寫 code，只是多提供一個職涯選項給喜歡 Coding 的人。\nUX Engineer ≠ UX Designer + UI Dev\nUXE 並不是要你同時當設計師，又要同時當工程師，一個人當兩個人用，他有它特殊存在的意義，後面會在細說。\nＯＫ好，那開始進入主題：\n什麼是 UXE？ 舉例來說，軟體開發會有以下成員組成：（當然每個公司不一樣）\nUX/UXR UI Front end Dev Back end Dev Database Dev IT/DevOps 要是把以上成員分成兩類的話，UXE 這樣的角色是會落在前三個 UX/UXR, UI, Front end Dev 這個群組裡面，也就是說 UXE 其實和設計師、研究員和前端工程師會有較多的協作。那為什麼會需要 UXE 這樣的角色呢？\n設計師和工程師使用不同的語言 譬如，設計師在講 Saturation (飽和度) 或 Kerning (字母間距) ，工程師聽到可能一頭霧水，當工程師在講 Caching (緩存)、*Cumulative layout shift (累計版面配置轉移) ，設計師應該也是黑人問號。\n設計師和工程師有不同的優先序 設計師最在意 Let’s make it easy to use，使用者好不好操作，流程順不順，工程師最在意的是 Let’s make it and ship it，當兩邊目標不一樣，又沒有人跨出一步想去理解對方的時候，雙方人馬就會漸行漸遠，形同陌路。google_uxe_JD\n這個時候，就會需要一個中間人出來打破僵局，出來當翻譯/協調者，也就是 UXE 出場的時候了！\n但就我目前觀察到的職場現狀，通常擔任協調者的角色幾乎 PM 居多，PM 本身需要懂一些工程術語，或是真的有些厲害的工程師，會自己把專業術語翻譯成人類聽得懂的語言，給其他非工程背景的人理解。（目前有 UXE 這類職缺都是偏大型企業，猜測因為分工更細，所以有這種需求產生）\nUXE 在幹嘛？ 上面是節錄 Google UX Engineer 的 JD，裡面提到：As a UX Engineer, you’ll weave together strong design aesthetics with technical know-how.\n身為 UXE，會期待你同時擁有設計美感，和技術上的專業技能。工作上會需要和研究員/設計師合作，把新功能的概念想法轉換成更符合真實產品的 prototype。因為設計師用 figma 做 prototype，仍然以設計工具可以做到的程度在設計，但是 UXE 是用 coding 在做 prototype，不會有設計師做得出來但實際上產品做不出來的狀況發生，也就是更具有真實性。\n這邊我覺得 Google 的 UXE, Mimin 寫了一篇文章裡舉了很好的例子：\n今天團隊想開發一個新功能來做使用者測試，但是這功能需要後端工程師一個月的時間刻一個新的 API，同時這個功能很複雜，無法用單純的「按到底」的 prototype 給使用者測試，這個時候，登登登，UXE 就登場了，他們可以和研究員討論如何在沒有後端的情況，用程式做出高品質的 prototype 去驗證這個新功能的價值。\n另外 Siva 還有提到其中一個工作內容，是重新設計一些公司內部系統、數據相關的 Dashboard 等等，像是他在 Netflix，使用者在觀看串流的時候，要是看到一半突然 crash，裝置會回傳 log 回去給 Netflix，他就可以負責把這些 data 做成 Dashboard 來觀測到底哪裡出了問題。也因為 UXE 具備 design sense 所以像這樣的專案不需要額外再花其他設計師的資源，UXE 可以直接完成。\n接下來，就是問問自己，\n你適合當 UXE 嗎？ 從 Skill Stacking 的角度回答這這問題之前，我們先來聊聊什麼是 Skill Staking：\nSkill Staking 是 Scott Adams 《呆伯特》漫畫作者提出的職涯建議：\nIf you want to be extraordinary, you have two paths:\nBecome the best at one specific thing. Become good (top 25%) at two or more things. Scott Adams (source) 簡單來說，你想當人上人，要嘛就是成為某專業領域裡面最強的，不然就是成為兩個以上的專業領域的前 1/4 強，也就是兩個互補技能 \u003e 一個專精技能。\nSiva 另外舉了個很有趣的例子，互補的加乘效果為什麼比較大？你今天很會唱歌，同時又很會游泳，但是這兩個技能互補的用處不大。但要是你今天很會唱歌 ，同時又很會寫歌，那你在會寫歌又會唱歌的這個領域裡就是個佼佼者了！可以參考下面的圖：\n如果你想成為某技能的 Top 1％，可能要努力到爆炸，擠到 Skill 1 or Skill 2 的紅色尖端。但假如，你今天還是很努力，但不用到爆炸的程度，成為 Skill 1 的 Top 10% 和 Skill 2 的 Top 10%，那你就可以成為世界上同時會這兩種技能的頂尖人物！\n也就是說，你今天又會設計又會寫程式，對於你職涯一定是大加分，當然薪水也是另一個很大的誘因，大家應該都知道工程師的薪水普遍來說比設計師高，尤其是越 Senior 差距越大，看不到車尾燈那種（希望我可以早點知道這件事）。\n但你也要問問自己以下幾個問題：\n不是每個人都適合寫程式，要是你無法真心喜歡寫 code，真的不用折磨自己。 不是每個公司都有這樣的職位，也不是每個人都熟悉這樣的職位可以帶來什麼好處，你可能需要找機會讓大家發現理解你可以貢獻的地方。 培養第二個專業技能需要花大量的心力和時間，要問自己是否願意投資下去。 假如你是設計師，對於如何寫程式把設計轉化成真實的產品很有興趣，那真的值得嘗試，假如你是工程師，對於如何設計互動，流程和介面的細節也很有興趣，那也很推薦嘗試。 希望這篇分享對大家的職涯規劃和好奇心有些幫助。\n",
+  "wordCount" : "2227",
+  "inLanguage": "en",
+  "image":"https://wingster.cc/uxe_cover.png","datePublished": "2022-10-12T20:04:42+08:00",
+  "dateModified": "2022-10-12T20:04:42+08:00",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mindscapes",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://wingster.cc/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+
+<body class="" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://wingster.cc/" accesskey="h" title="Mindscapes (Alt + H)">Mindscapes</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://wingster.cc/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://wingster.cc/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://wingster.cc/archives/" title="Archives">
+                    <span>Archives</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      UX Engineer 是設計師還是工程師？
+    </h1>
+    <div class="post-meta"><span title='2022-10-12 20:04:42 +0800 CST'>October 12, 2022</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="lazy" srcset="https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/uxe_cover_hu7bbdc8d6e22e80e6fa3af3dc620afad9_116446_360x0_resize_box_3.png 360w ,https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/uxe_cover_hu7bbdc8d6e22e80e6fa3af3dc620afad9_116446_480x0_resize_box_3.png 480w ,https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/uxe_cover_hu7bbdc8d6e22e80e6fa3af3dc620afad9_116446_720x0_resize_box_3.png 720w ,https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/uxe_cover.png 720w" 
+            sizes="(min-width: 768px) 720px, 100vw" src="https://wingster.cc/posts/ux-engineer-%E6%98%AF%E8%A8%AD%E8%A8%88%E5%B8%AB%E9%82%84%E6%98%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB/uxe_cover.png" alt="Photo by Christina @ wocintechchat.com on Unsplash" 
+            width="720" height="234">
+        <p>Photo by Christina @ wocintechchat.com on Unsplash</p>
+</figure>
+  <div class="post-content"><h2 id="前言">前言<a hidden class="anchor" aria-hidden="true" href="#前言">#</a></h2>
+<p>最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的職業，以及他從設計師轉換到 UXE 的心路歷程。</p>
+<p>因為自己本身是設計師背景，所以對這個主題蠻好奇的，也希望可以提供給設計師們多一個職涯規劃的選項。</p>
+<p>下面記錄了這次演講的心得和重點，對於想認識 UXE 這個職業，還有身為設計師到底該不該去學 coding 會有一些不一樣想法。</p>
+<p>附註：Siva 本身目前在 Netflix 任職約一年，之前在 Microsoft 原本是當 UX Designer，後來花了一兩年自學 HTML/CSS 和 Javascript，然後開始在公司做一些需要 coding 的小專案，四年後正式轉職到 UXE 的職位（毅力驚人）。</p>
+<h2 id="takeaway">Takeaway<a hidden class="anchor" aria-hidden="true" href="#takeaway">#</a></h2>
+<ol>
+<li>什麼是 UXE？</li>
+<li>UXE 在幹嘛？</li>
+<li>你適合當 UXE 嗎？</li>
+</ol>
+<hr>
+<h3 id="免責聲明">免責聲明<a hidden class="anchor" aria-hidden="true" href="#免責聲明">#</a></h3>
+<p>在開始這個主題之前，Siva 有特別強調兩點：</p>
+<blockquote>
+<p>This is not a call to UXDs to start coding</p>
+</blockquote>
+<p>這場演講並不是要鼓吹每個 UX Designer 都跑去寫 code，只是多提供一個職涯選項給喜歡 Coding 的人。</p>
+<blockquote>
+<p>UX Engineer ≠ UX Designer + UI Dev</p>
+</blockquote>
+<p>UXE 並不是要你同時當設計師，又要同時當工程師，一個人當兩個人用，他有它特殊存在的意義，後面會在細說。</p>
+<hr>
+<p>ＯＫ好，那開始進入主題：</p>
+<h2 id="什麼是-uxe">什麼是 UXE？<a hidden class="anchor" aria-hidden="true" href="#什麼是-uxe">#</a></h2>
+<p>舉例來說，軟體開發會有以下成員組成：（當然每個公司不一樣）</p>
+<ul>
+<li>UX/UXR</li>
+<li>UI</li>
+<li>Front end Dev</li>
+<li>Back end Dev</li>
+<li>Database Dev</li>
+<li>IT/DevOps</li>
+</ul>
+<p>要是把以上成員分成兩類的話，UXE 這樣的角色是會落在前三個 UX/UXR, UI, Front end Dev 這個群組裡面，也就是說 UXE 其實和設計師、研究員和前端工程師會有較多的協作。那為什麼會需要 UXE 這樣的角色呢？</p>
+<h3 id="設計師和工程師使用不同的語言">設計師和工程師使用不同的語言<a hidden class="anchor" aria-hidden="true" href="#設計師和工程師使用不同的語言">#</a></h3>
+<p>譬如，設計師在講 Saturation (飽和度) 或 Kerning (字母間距) ，工程師聽到可能一頭霧水，當工程師在講 Caching (緩存)、*Cumulative layout shift (累計版面配置轉移) ，設計師應該也是黑人問號。</p>
+<h3 id="設計師和工程師有不同的優先序">設計師和工程師有不同的優先序<a hidden class="anchor" aria-hidden="true" href="#設計師和工程師有不同的優先序">#</a></h3>
+<p>設計師最在意 Let’s make it easy to use，使用者好不好操作，流程順不順，工程師最在意的是 Let’s make it and ship it，當兩邊目標不一樣，又沒有人跨出一步想去理解對方的時候，雙方人馬就會漸行漸遠，形同陌路。google_uxe_JD</p>
+<p>這個時候，就會需要一個中間人出來打破僵局，出來當翻譯/協調者，也就是 UXE 出場的時候了！</p>
+<p>但就我目前觀察到的職場現狀，通常擔任協調者的角色幾乎 PM 居多，PM 本身需要懂一些工程術語，或是真的有些厲害的工程師，會自己把專業術語翻譯成人類聽得懂的語言，給其他非工程背景的人理解。（目前有 UXE 這類職缺都是偏大型企業，猜測因為分工更細，所以有這種需求產生）</p>
+<h2 id="uxe-在幹嘛">UXE 在幹嘛？<a hidden class="anchor" aria-hidden="true" href="#uxe-在幹嘛">#</a></h2>
+<p><img loading="lazy" src="google_UXE_JD.png" alt="Alt text"  />
+</p>
+<p>上面是節錄 Google UX Engineer 的 JD，裡面提到：As a UX Engineer, you’ll weave together strong design aesthetics with technical know-how.</p>
+<p>身為 UXE，會期待你同時擁有設計美感，和技術上的專業技能。工作上會需要和研究員/設計師合作，把新功能的概念想法轉換成更符合真實產品的 prototype。因為設計師用 figma 做 prototype，仍然以設計工具可以做到的程度在設計，但是 UXE 是<strong>用 coding 在做 prototype</strong>，不會有設計師做得出來但實際上產品做不出來的狀況發生，也就是更具有真實性。</p>
+<p>這邊我覺得 Google 的 UXE, Mimin 寫了一篇<a href="https://medium.com/as-a-product-designer/google-%E7%9A%84-ux-engineer-%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC-%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA-ux-engineer-96ef9e992263">文章</a>裡舉了很好的例子：</p>
+<p>今天團隊想開發一個新功能來做使用者測試，但是這功能需要後端工程師一個月的時間刻一個新的 API，同時這個功能很複雜，無法用單純的「按到底」的 prototype 給使用者測試，這個時候，登登登，UXE 就登場了，他們可以和研究員討論如何在沒有後端的情況，用程式做出高品質的 prototype 去驗證這個新功能的價值。</p>
+<p>另外 Siva 還有提到其中一個工作內容，是重新設計一些公司內部系統、數據相關的 Dashboard 等等，像是他在 Netflix，使用者在觀看串流的時候，要是看到一半突然 crash，裝置會回傳 log 回去給 Netflix，他就可以負責把這些 data 做成 Dashboard 來觀測到底哪裡出了問題。也因為 UXE 具備 design sense 所以像這樣的專案不需要額外再花其他設計師的資源，UXE 可以直接完成。</p>
+<p>接下來，就是問問自己，</p>
+<h2 id="你適合當-uxe-嗎">你適合當 UXE 嗎？<a hidden class="anchor" aria-hidden="true" href="#你適合當-uxe-嗎">#</a></h2>
+<p>從 Skill Stacking 的角度回答這這問題之前，我們先來聊聊什麼是 Skill Staking：</p>
+<p>Skill Staking 是 Scott Adams 《呆伯特》漫畫作者提出的職涯建議：</p>
+<blockquote>
+<p>If you want to be extraordinary, you have two paths:</p>
+<ol>
+<li>Become the best at one specific thing.</li>
+<li>Become good (top 25%) at two or more things.</li>
+</ol>
+<ul>
+<li>Scott Adams (<a href="https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html">source</a>)</li>
+</ul>
+</blockquote>
+<p>簡單來說，你想當人上人，要嘛就是成為某專業領域裡面最強的，不然就是成為兩個以上的專業領域的前 1/4 強，也就是兩個互補技能 &gt; 一個專精技能。</p>
+<p>Siva 另外舉了個很有趣的例子，互補的加乘效果為什麼比較大？你今天很會唱歌，同時又很會游泳，但是這兩個技能互補的用處不大。但要是你今天很會唱歌 ，同時又很會寫歌，那你在會寫歌又會唱歌的這個領域裡就是個佼佼者了！可以參考下面的圖：</p>
+<p><img loading="lazy" src="https://mikecrittendenhome.files.wordpress.com/2020/09/stackiing.png?w=1024" alt="Alt text"  />
+</p>
+<p>如果你想成為某技能的 Top 1％，可能要努力到爆炸，擠到 Skill 1 or Skill 2 的紅色尖端。但假如，你今天還是很努力，但不用到爆炸的程度，成為 Skill 1 的 Top 10% 和 Skill 2 的 Top 10%，那你就可以成為世界上同時會這兩種技能的頂尖人物！</p>
+<p>也就是說，你今天又會設計又會寫程式，對於你職涯一定是大加分，當然薪水也是另一個很大的誘因，大家應該都知道工程師的薪水普遍來說比設計師高，尤其是越 Senior 差距越大，看不到車尾燈那種（希望我可以早點知道這件事）。</p>
+<p>但你也要問問自己以下幾個問題：</p>
+<ol>
+<li>不是每個人都適合寫程式，要是你無法真心喜歡寫 code，真的不用折磨自己。</li>
+<li>不是每個公司都有這樣的職位，也不是每個人都熟悉這樣的職位可以帶來什麼好處，你可能需要找機會讓大家發現理解你可以貢獻的地方。</li>
+<li>培養第二個專業技能需要花大量的心力和時間，要問自己是否願意投資下去。
+假如你是設計師，對於如何寫程式把設計轉化成真實的產品很有興趣，那真的值得嘗試，假如你是工程師，對於如何設計互動，流程和介面的細節也很有興趣，那也很推薦嘗試。</li>
+</ol>
+<p>希望這篇分享對大家的職涯規劃和好奇心有些幫助。</p>
+
+
+  </div>
+
+
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://wingster.cc/tags/ux/">UX</a></li>
+      <li><a href="https://wingster.cc/tags/design/">design</a></li>
+      <li><a href="https://wingster.cc/tags/uxe/">UXE</a></li>
+    </ul>
+  </footer>
+
+  <div class="disqus markdown">
+    <div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://mindscapes-w.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div>
+</article>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://wingster.cc/">Mindscapes</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>
