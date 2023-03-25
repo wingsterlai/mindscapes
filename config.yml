@@ -1,4 +1,4 @@
-baseURL: "https://wingster.cc/"
+baseURL: "https://mindscapes.wingster.cc/"
 languageCode: zh-tw
 title: Mindscapes
 theme: PaperMod
@@ -18,12 +18,12 @@ disqus:
 
 assets: 
   disableHLJS: true 
-  #favicon: "favicon.ico" 
-  #favicon_dark: "favicon_dark.png" 
-  #favicon16x16: "favicon-16x16.png" 
-  #favicon32x32: "favicon-32x32.png" 
-  #apple_touch_icon: "apple-touch-icon.png" 
-  #safari_pinned_tab: "safari-pinned-tab.svg" 
+  favicon: "/static/favicon.ico" 
+  favicon_dark: "/static/favicon_dark.png" 
+  favicon16x16: "/static/favicon-16x16.png" 
+  favicon32x32: "/static/favicon-32x32.png" 
+  apple_touch_icon: "/static/apple-touch-icon.png" 
+  safari_pinned_tab: "/static/safari-pinned-tab.svg" 
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
@@ -32,9 +32,7 @@ params:
     Title: Mindscapes
     Content: >
       - 歡迎來到 Wingster 的部落格
-
       - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
-      
       - 若你想跟我交流想法，歡迎透過 Email ✉️ <wingsterlai@gmail.com> 與我聯繫
 
   socialIcons: # optional
@@ -80,4 +78,8 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+
+
+
 
