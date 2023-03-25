@@ -1,4 +1,4 @@
-baseURL: "https://wingster.cc/"
+baseURL: "https://mindscapes.wingster.cc/"
 languageCode: zh-tw
 title: Mindscapes
 theme: PaperMod
@@ -16,9 +16,18 @@ disqus:
     shortname: mindscapes-w
     count: true
 
+assets: 
+  disableHLJS: true 
+  favicon: "/static/favicon.ico" 
+  favicon_dark: "/static/favicon_dark.png" 
+  favicon16x16: "/static/favicon-16x16.png" 
+  favicon32x32: "/static/favicon-32x32.png" 
+  apple_touch_icon: "/static/apple-touch-icon.png" 
+  safari_pinned_tab: "/static/safari-pinned-tab.svg" 
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
-
+  
   homeInfoParams:
     Title: Mindscapes
     Content: >
