@@ -74,14 +74,8 @@ menu:
       url: /archives/
       weight: 30
 
-assets:
-    disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true 
-    favicon: "favicon.ico"
-    favicon16x16: "favicon.ico"
-    favicon32x32: "favicon.ico"
-    apple_touch_icon: "favicon.ico"
-    safari_pinned_tab: "favicon.ico"
+
+
 
 
 
