@@ -32,6 +32,23 @@
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+    <div id="signature" 
+      style="background-color: whitesmoke;
+              margin-top: 30px;
+              font-size:18px;
+              border-inline-start:5px solid  slategray;
+              padding: 16px;">
+      <strong>感謝您的閱讀，文章就要結束了！</strong>
+      <p style="
+        margin-bottom: 0px;
+        margin-top: 4px;
+        font-size: 16px;
+        color: slategray;
+        ">
+        但是，如果您想要和我聊聊，或是看完覺得有點意思，歡迎下方給個鼓勵或是留個言吧 🥳
+      </p>
+    </div>
+    
   </div>
   {{- end }}
 
