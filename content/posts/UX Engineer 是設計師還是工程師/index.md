@@ -6,8 +6,8 @@ cover:
     image: uxe_cover.png 
     alt: ''
     caption: 'Photo by Christina @ wocintechchat.com on Unsplash'
-categories: [""]
-tags: ["UX", "design", "UXE"]
+categories: ["設計職涯"]
+tags: ["UX", "Designer", "UXE"]
 ---
 
 ## 前言

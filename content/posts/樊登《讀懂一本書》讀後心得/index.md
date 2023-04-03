@@ -6,8 +6,8 @@ cover:
     image: 
     alt: 'FanDan Book Cover'
     caption: ''
-categories: ["book"]
-tags: ["book"]
+categories: ["讀書心得"]
+tags: ["閱讀"]
 ---
 
 這是我近期讀過最推薦的一本書，甚至比《一流的人，都在哪裡畫線》還推薦，假如說《一流的人，都在哪裡畫線》是一個嚴厲的大叔，那《讀懂一本書》就是個循循善誘的長輩。

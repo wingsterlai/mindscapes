@@ -7,7 +7,7 @@ cover:
     alt: ''
     caption: ''
 categories: ["閒聊"]
-tags: ["Inspiration", "Energy", "Mental Health"]
+tags: ["自我", "反思"]
 ---
 
 最近看到日本「收納女王」近藤麻理惠提到，她生下三個孩子之後「有點放棄整理」這個[新聞](https://www.storm.mg/lifestyle/4717805?mode=whole)。

@@ -6,8 +6,8 @@ cover:
     image: draw_a_line_cover.png
     alt: 'Draw a Line FanDan Book Cover'
     caption: ''
-categories: ["book"]
-tags: ["book"]
+categories: ["讀書心得"]
+tags: ["閱讀"]
 ---
 
 剛好聽到公司有同事分享了一本《[如何閱讀一本書](https://www.books.com.tw/products/0010736991)》，所以想說下次換我分享《一流的人讀書，都在哪裡畫線》，看著看著覺得這本書的內容似曾相似，結果不小心翻到以前的閱讀紀錄，發現了一個驚人的事實，一年前我竟然讀過這本書但卻完！全！沒！印！象（嚇）！難怪要開始記錄閱讀心得，拯救腦容量大作戰(汗)。

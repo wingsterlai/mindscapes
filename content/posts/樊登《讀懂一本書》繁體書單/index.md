@@ -6,8 +6,8 @@ cover:
     image: 
     alt: 'FanDan Book Cover'
     caption: ''
-categories: ["book"]
-tags: ["book"]
+categories: ["筆記"]
+tags: ["閱讀"]
 ---
 
     

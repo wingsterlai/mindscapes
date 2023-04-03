@@ -1,14 +1,16 @@
 baseURL: "https://mindscapes.wingster.cc/"
+# baseURL: https://mindscapes.wingster.cc  # 绑定的域名
 languageCode: zh-tw
 title: Mindscapes
-theme: PaperMod
+theme: PaperMod # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true #允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
 enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
 hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
 paginate: 8    # 每页显示的文章数
-googleAnalytics: G-C33WZGBGNZ
+
+googleAnalytics: G-C33WZGBGNZ # 谷歌统计
 
 #disqus
 disqusShortname: mindscapes-w

@@ -6,8 +6,8 @@ cover:
     image: die_alone.png
     alt: '哈佛 x Google 行為科學家的脫單指南'
     caption: ''
-categories: ["book"]
-tags: ["book"]
+categories: ["讀書心得"]
+tags: ["閱讀", "關係", "感情"]
 ---
 
 ## 這本書在說什麼
