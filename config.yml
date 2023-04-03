@@ -8,6 +8,7 @@ enableEmoji: true # 允许使用 Emoji 表情，建议 true
 enableRobotsTXT: true # 允许爬虫抓取到搜索引擎，建议 true
 hasCJKLanguage: true # 自动检测是否包含 中文日文韩文 如果文章中使用了很多中文引号的话可以开启
 paginate: 8    # 每页显示的文章数
+googleAnalytics: G-DXBQP2376V
 
 #disqus
 disqusShortname: mindscapes-w
@@ -27,7 +28,6 @@ assets:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
-  googleAnalytics: G-DXBQP2376V
   
   homeInfoParams:
     Title: Mindscapes
