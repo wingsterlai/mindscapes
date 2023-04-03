@@ -49,10 +49,9 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
-  <div style="margin: 20px 0;"> 
-    <div class="disqus markdown">
-      {{ partial "disqus.html" . }}
-    </div>
+
+  <div style="margin: 20px 0;" class="disqus markdown">
+    {{ partial "disqus.html" . }}
   </div>
 
   {{- if (.Param "comments") }}
