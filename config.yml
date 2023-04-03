@@ -27,6 +27,7 @@ assets:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
+  googleAnalytics: G-DXBQP2376V
   
   homeInfoParams:
     Title: Mindscapes
