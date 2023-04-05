@@ -31,13 +31,13 @@ tags: ["Kindle", "文石"]
 另外一個意外收穫是，本來買這台 Kindle 沒有期待可以拿來看漫畫，之前用 Kindle 看漫畫的經驗不太好，會看到眼睛脫窗。但這次 Kindle Paperwhite 和之前的版本比，有升級到 6.8 寸螢幕 300dpi，漫畫解析度是真的會感動的程度。
 
 ## 如何獲得 Kindle 繁體書
-至於 Kindle 繁體書本來源，現在 Amazon 已經有上千本繁體書，只要是近期的新書幾乎都有，但因為 Amazon 的中文搜尋做的不是很好，同樣的書名在 Amazon 搜尋會找不到，建議到 (goodreads)[https://www.goodreads.com/] 裏面查詢書籍再直接連到 Amazon 購買。
+至於 Kindle 繁體書本來源，現在 Amazon 已經有上千本繁體書，只要是近期的新書幾乎都有，但因為 Amazon 的中文搜尋做的不是很好，同樣的書名在 Amazon 搜尋會找不到，建議到 [goodreads](https://www.goodreads.com/) 裏面查詢書籍再直接連到 Amazon 購買。
 
-還有一個網站叫好讀，裡面超多免費經典小說，雖然有點舊，但也是因為舊，所以比較沒有版權問題，裡面金庸、倪匡、東野圭吾、史蒂芬金可以看好幾年都重溫不完。
+還有一個網站叫[好讀](https://www.haodoo.net/)，裡面超多免費經典小說，雖然有點舊，但也是因為舊，所以比較沒有版權問題，裡面金庸、倪匡、東野圭吾、史蒂芬金可以看好幾年都重溫不完。
 
-看漫畫的話，除了正規做法，去 Amazon 買來看之外，推薦一個網站 (Mox.moe)[https://kox.moe/] 裡面有超多漫畫，還可以直接 push 到 Kindle 方便的要命，要注意的是，每個月有限制下載容量，超過要付錢，但我自己是覺得很夠用了。
+看漫畫的話，除了正規做法，去 Amazon 買來看之外，推薦一個網站 [Mox.moe](https://kox.moe/) 裡面有超多漫畫，還可以直接 push 到 Kindle 方便的要命，要注意的是，每個月有限制下載容量，超過要付錢，但我自己是覺得很夠用了。
 
-假如你原本就有一堆 epub 檔案的電子書，也不用擔心換到 Kindle 不能看，可以下載 (Calibre)[https://calibre-ebook.com/download] (支援 Wins/Mac)，直接拖拉檔案到 Kindle 就可以看了。
+假如你原本就有一堆 epub 檔案的電子書，也不用擔心換到 Kindle 不能看，可以下載 [Calibre](https://calibre-ebook.com/download) (支援 Wins/Mac)，直接拖拉檔案到 Kindle 就可以看了。
 
 ![Alt text](kindle_comic.png)
 
