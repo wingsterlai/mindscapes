@@ -25,6 +25,7 @@ tags: ["工具", ""]
 
 1. 首先到官網下載  [Raycast](https://www.raycast.com/) 
 
+
 ![Alt text](raycast%20site.png)
 
 1. 安裝完成後打開 Raycast，這時會跳出 Raycast Setting 畫面， 這裡比較需要注意的是，快捷鍵設定（Raycast Hotkey)，Raycast 預設是 option + 空白鍵，因為這個快捷鍵對你之後叫出 Raycast 方便程度有很大的影響，我自己是直接使用預設，剛好沒有跟我其他快捷鍵打架。
