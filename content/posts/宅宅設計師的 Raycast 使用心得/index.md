@@ -34,7 +34,7 @@ tags: ["工具", "Designer"]
 
 有的人已經有使用 Spotlight 快捷的習慣 （cammand + 空白鍵），基本上這個工具可以完全取代 Spotlight 甚至更好用，所以有的人會把它改成 cammand + 空白鍵。這裡就看自己的是使用習慣設定就好。
 
-# 使用情境 1 - Figma File Search 加速設計師找檔案的工作效率
+# 1. Figma File Search 加速設計師找檔案的工作效率
 
 Figma File Search，可以快速瀏覽 Figma 裡面海量的檔案，再也不用在一片 Figma 檔案海裡面尋找點進點出的尋找。甚至可以在 menu bar 上面就可以看到所有檔案（大推）！
 
@@ -48,23 +48,21 @@ Figma File Search，可以快速瀏覽 Figma 裡面海量的檔案，再也不�
 
 #### Personal Access Token 在哪？
 
-在 Figma.com 首頁的右上角點擊自己的頭像，到 Setting 後，往下滑會看到 Personal access tokens
+在 Figma.com 首頁的右上角點擊自己的頭像，開啟 Setting 後，往下滑會看到 Personal access tokens。
 
 ![Alt text](Figma%20Profile%20menu.png)
 
-在 Add a token description 的文字輸入匡裡面，可以隨便取一個看得懂的名字，譬如：Raycast 01
-
-
-按 Enter 之後就會產生一組 Personal access token，可以先複製貼到 Raycast（這個只能 Copy 一次，不小心關掉沒 copy 到，就 Revoke access 再重新創一個就好，莫驚慌。）
+在 Add a token description 的文字輸入匡裡面，可以隨便取一個看得懂的名字，譬如：「Raycast 01」。按 Enter 之後就會產生一組 Personal access token，可以先複製貼到 Raycast（這個只能 Copy 一次，不小心關掉沒 copy 到，就 Revoke access 再重新創一個就好，莫驚慌。）
 
 ![Alt text](Figma%20Token.png)
 
 #### Team ID 哪裡找？
 
-範例：https://www.figma.com/files/team/12345678987654321/Team?fuid=978491079863790852
+範例：<https://www.figma.com/files/team/12345678987654321/Team?fuid=978491079863790852>
+
 點擊上方連結以後，點擊自己公司用的 Teams 名稱，可以看到網址列上面 /team/ 後面這一串數字，
 
-> figma.com/files/team/ **這串數字就是你的 Team ID**/Team?fuid=978491079863790852...
+> figma.com/files/team/**這串數字就是你的 Team ID**/Team?fuid=978491079863790852...
 
 以下方的例子來說， Team ID 就是 12345678987654321 這串數字。
 
@@ -83,26 +81,27 @@ Figma File Search，可以快速瀏覽 Figma 裡面海量的檔案，再也不�
 
 #### 如何用 Raycast 找 Figma 檔案
 
-點擊快捷 option + space 叫出 Raycast，輸入 figma (其實我輸入 f 就出現了，連快捷都沒設定就好聰明的自己跳出來)，點擊 Search File 就可以看到所有 Figma 檔案了，其他大家可以自己玩玩看。
+點擊快捷 (option + space) 叫出 Raycast，輸入 figma (其實我輸入 f 就出現了，連快捷都沒設定就好聰明的自己跳出來)，點擊 Search File 就可以看到所有 Figma 檔案了，其他大家可以自己玩玩看。
 
 ![Alt text](Raycast%20Figma%20Search%20FIle.png)
 
 剛剛最複雜的部分已經介紹完了，下面的操作方式就簡單很多。
 
-# 使用情境 2 - Google Search 懶得用滑鼠點來點去時很好用
+# 2. Google Search 懶得用滑鼠點來點去時很好用
 
-直接用 Raycast 操作 Google Search [這裡下載](https://www.raycast.com/mblode/google-search)，一樣點擊 **Install Extension**
+直接用 Raycast 操作 Google Search [這裡下載](https://www.raycast.com/mblode/google-search)，點擊 **Install Extension**
 
 ![Alt text](Raycast%20Google%20Search.png)
 
-打開 Raycast (快捷 option + space) 輸入 goo 馬上可以看到 Google Search，Enter 之後輸入要查詢的東西， Enter 蹦！搜尋結果直接出現！
+打開 Raycast (option + space) 輸入 goo 馬上可以看到 Google Search，Enter 之後輸入要查詢的東西按 Enter，搜尋結果直接出現！
+
+![Alt text](Raycast%20Google%20Search%20Example.png)
+
+> 這裡有一個小技巧，當你想快速叫出某功能的時候，可以在 Raycast Setting 裡面的 Extension 輸入 Alias（別名），這樣只要你一打 goo 就可以叫出 google search，或是設定輸入 trans 就可以叫出 google translate，可以輸入自己習慣的別名。
 
 ![Alt text](Raycast%20Alias.png)
 
-這裡有一個小技巧，當你想快速叫出某功能的時候，可以在 Raycast Setting 裡面的 Extension 輸入 Alias（別名），這樣只要你一打 goo 就可以叫出 google search，或是設定輸入 trans 就可以叫出 google translate，這些都可以看自己開心來設定。
-
-
-# 使用情境 3 - Calculator 快速換算各國外幣
+# 3. Calculator 快速換算各國外幣
 
 這是 Raycast 預設的 ectension 不用另外下載。
 
@@ -113,7 +112,7 @@ Figma File Search，可以快速瀏覽 Figma 裡面海量的檔案，再也不�
 
 ![Alt text](Raycast%20Calculator%20example.png)
 
-# 使用情境 4 - Spotify 非常適合小 Geek 使用
+# 4. Spotify 非常適合小 Geek 使用
 
 這邊我試用過兩個 Spotify Extension， 一個是 [Spotify Player](https://www.raycast.com/mattisssa/spotify-player) 和 [Spotify Beta](https://www.raycast.com/mattisssa/spotify-beta)。兩款各有各的好，所以我就先留著都用用看。
 
@@ -128,23 +127,29 @@ Raycast 支援的 Spotify 功能超多，像是看現在正在聽的音樂（Now
 ![Alt text](Raycast%20Spotify%20Example%2002.png)
 
 
-# 其他使用情境 
+# 5. 其他使用情境 
 
-#### Google Translate 
+### Google Translate 
 我之前都習慣用有道的 app 查詢翻譯，Raycast 也可以自動偵測你輸入的語言，直接換成中文。
 ![Alt text](Raycast%20Google%20Translate.png)
 
-#### Calendar
-這個同事大推薦，可以在 menu bar 上面就看到自己接下來的行程，點進去還可以直接開啟 Zoom 或是 Google Meet 的會議連結。
+---
+
+### Calendar
+這個同事大推薦，可以在 menu bar 上面就看到自己接下來的行程，點進去還可以直接開啟 Zoom 或是 Google Meet 的會議連結。記得要在 **Show Events in Menu Bar** 設定成 **Always** 才會出現喔。
  ![Alt text](Raycast%20Calendar.png)
 
-#### System Monitor 
+---
+
+### System Monitor 
 
 要是發現自己網路或是電腦變慢，可以打開來偵測一下系統的健康度。我自己原本有在用 iStat，常有事沒事會點開來看一下傳輸順不順暢或是哪個軟體在狂吃我的 CPU 或記憶體，但因為 iStat 要付費，或許這是另一個不錯的替代方案。
 
 ![Alt text](Raycast%20system%20monitor.png)
 
-其他像是在你突然要離開座位，想把螢幕鎖起還的時候，可以到 System/ Lock Screen 關閉螢幕。或是當你突然有一個 idea 或是怕忘記某件事時，可以使用 Floating Note 立馬開一個置頂的 note 在桌面上。
+---
+
+其他使用場景，像是在你突然要離開座位，想把螢幕鎖起還的時候，可以到 System / Lock Screen 關閉螢幕。或是當你突然有一個 idea 或是怕忘記某件事時，可以使用 Floating Note 立馬開一個置頂的 note 在桌面上，花樣很多。
 
 # 結論
 
