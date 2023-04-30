@@ -17,6 +17,7 @@ tags: ["工具", "Designer"]
 之前其實也沒有用過像 Raycast 類似的工具，Raycast 有點像是「電腦的中央控制台」，你可以手指不用離開鍵盤，只要下簡單快速的指令，就可以控制電腦聽音樂、開啟軟體等等超多有趣的功能。
 
 舉例來說，我今天想要 google search “木瓜營養成分”，這時候我會拿起滑鼠 → 點擊瀏覽器 → 點一下網址列 → 在鍵盤輸入“木瓜營養成分”按 Enter → 搜尋結果出現。
+
 假如我用 Raycast 的話，直接用鍵盤隨便按一按，搜尋結果就出現（等等會詳細介紹），而這只是 Raycast 裡面一個最基礎的功能而已！
 
 因為 Raycast 功能太多太強大，下面會分享一些我自己目前的使用方式，給入門的人一些參考，以免一打開被他複雜的介面嚇到。
@@ -32,11 +33,11 @@ tags: ["工具", "Designer"]
 
 ![Alt text](Raycast%20Settings.png)
 
-有的人已經有使用 Spotlight 快捷的習慣 （cammand + 空白鍵），基本上這個工具可以完全取代 Spotlight 甚至更好用，所以有的人會把它改成 cammand + 空白鍵。這裡就看自己的是使用習慣設定就好。
+有的人已經有使用 Spotlight 快捷的習慣 （cammand + 空白鍵），基本上這個工具可以完全取代 Spotlight 甚至更好用，所以有的人會把它改成 cammand + 空白鍵，這裡就看自己的使用習慣。
 
 # 1. Figma File Search 加速設計師找檔案的工作效率
 
-Figma File Search，可以快速瀏覽 Figma 裡面海量的檔案，再也不用在一片 Figma 檔案海裡面尋找點進點出的尋找。甚至可以在 menu bar 上面就可以看到所有檔案（大推）！
+Figma File Search 可以快速瀏覽 Figma 裡面海量的檔案，再也不用在一片 Figma 檔案海裡面，點進去點出來的尋找。甚至可以在 menu bar 上面就可以看到所有檔案（大推）！
 
 首先先到 [Figma File Search](https://www.raycast.com/michaelschultz/figma-files-raycast-extension) 頁面，點擊 **Install Extension** 。
 
