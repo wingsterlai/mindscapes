@@ -43,7 +43,6 @@ tags: ["工具", "自我", "反思"]
 
 ![](https://miro.medium.com/v2/resize:fit:583/0*ksbV9Z2GmSQHKG1U.jpg)
 
-心理盤點清單
 
 盤點完之後，這張紙晚點會用到，有它神奇奧妙的地方，大家先把這張紙留著。
 
