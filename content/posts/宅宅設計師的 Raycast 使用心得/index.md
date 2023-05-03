@@ -3,8 +3,8 @@ title: "宅宅設計師的 Raycast 使用心得"
 description: 提高生產力及工作效率的 Mac 軟體
 date: 2023-04-29T14:41:42+08:00
 cover:
-    image: 
-    alt: ''
+    image: Raycast_cover.png
+    alt: 'Raycast Cover'
     caption: ''
 categories: ["生產力"]
 tags: ["工具", "Designer"]
