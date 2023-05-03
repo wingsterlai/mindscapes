@@ -3,14 +3,14 @@ title: "宅宅設計師的 Raycast 使用心得"
 description: 提高生產力及工作效率的 Mac 軟體
 date: 2023-04-29T14:41:42+08:00
 cover:
-    image: 
-    alt: ''
+    image: Raycast_cover.png
+    alt: 'Raycast Cover'
     caption: ''
 categories: ["生產力"]
 tags: ["工具", "Designer"]
 ---
 
-# 什麼是 Raycast 測試
+# 什麼是 Raycast ?
 
 最近被精通各種密技的同事推坑開始使用 Raycast，結果被他強大的功能驚艷到！
 
@@ -25,7 +25,6 @@ tags: ["工具", "Designer"]
 # Raycast 基本設定
 
 1. 首先到官網下載  [Raycast](https://www.raycast.com/) 
-
 
 ![Alt text](raycast%20site.png)
 
