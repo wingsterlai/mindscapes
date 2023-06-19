@@ -93,11 +93,11 @@ tags: ["", ""]
 
 ### `Now I'm smiling from the stage while`
 
-但是我現在自己很有自信的在舞台上微笑
+但是我現在很有自信的在舞台上微笑
 
 ### `You were clapping in the nosebleeds`
 
-換你在離舞台最遠的座位上幫我鼓掌
+你只能在離舞台最遠的座位上幫我鼓掌
 
 (nosebloeed 是流鼻血，這邊 in the nosebleeds 指的是 看表演很高很遠的座位)
 
