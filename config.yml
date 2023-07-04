@@ -32,7 +32,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema. 
   
   homeInfoParams:
-    Title: Mindscapes
+    Title: MindScapes
     Content: >
       - 歡迎來到 Wingster 的部落格
       - **Mindscapes** 會記錄我的人生學習心得，以及分享興趣愛好
