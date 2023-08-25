@@ -53,7 +53,7 @@ params:
 
   DateFormat: "2006-01-02"
   ShowReadingTime: true
-  ShowWordCount: false
+  ShowWordCount: true
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
