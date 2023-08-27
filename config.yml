@@ -56,7 +56,7 @@ params:
   DateFormat: "2006-01-02"
   ShowReadingTime: true
   ShowWordCount: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
