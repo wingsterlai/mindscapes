@@ -1,6 +1,6 @@
 ---
 title: "五大選書原則 - 大人版本"
-description: 步入中年之後如何選書
+description: 
 date: 2023-08-27T15:24:42+08:00
 cover:
     image: 00_choose_book_cover.png
