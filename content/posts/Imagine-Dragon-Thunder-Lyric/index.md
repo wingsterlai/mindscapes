@@ -8,6 +8,7 @@ cover:
     caption: ''
 categories: [""]
 tags: ["", ""]
+draft: true # 是否为草稿
 ---
 
 {{< youtube id="eODhKYdhbbk" >}}
