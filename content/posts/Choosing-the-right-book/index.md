@@ -3,9 +3,9 @@ title: "五大選書原則 - 40歲版本"
 description: 步入中年之後如何選書
 date: 2023-08-27T15:24:42+08:00
 cover:
-    image: 00_choose_book.png
-    alt: 'Photo by Ugur Akdemir on Unsplash'
-    caption: ''
+    image: 00_choose_book_cover.png
+    alt: 'Photo by u/riveryut on Reddit'
+    caption: 'Photo by u/riveryut on Reddit'
 categories: ["讀書心得"]
 tags: ["閱讀"]
 ---
