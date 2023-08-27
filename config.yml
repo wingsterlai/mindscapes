@@ -57,6 +57,7 @@ params:
   ShowReadingTime: true
   ShowWordCount: true
   ShowShareButtons: true
+  ShareButtons: ["facebook","linkedin", "twitter"] # To customize which share buttons to be enabled on page
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
