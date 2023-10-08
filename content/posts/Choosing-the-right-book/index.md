@@ -6,6 +6,7 @@ cover:
     image: 00_choose_book_cover.png
     alt: 'Photo by u/riveryut on Reddit'
     caption: 'Photo by u/riveryut on Reddit'
+    relative: true
 categories: ["讀書心得"]
 tags: ["閱讀"]
 ---

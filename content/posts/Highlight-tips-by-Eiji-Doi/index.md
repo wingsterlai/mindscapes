@@ -6,6 +6,7 @@ cover:
     image: draw_a_line_cover.png
     alt: 'Draw a Line FanDan Book Cover'
     caption: ''
+    relative: true
 categories: ["讀書心得"]
 tags: ["閱讀"]
 ---

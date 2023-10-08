@@ -6,6 +6,7 @@ cover:
     image: Raycast_cover.png
     alt: 'Raycast Cover'
     caption: ''
+    relative: true
 categories: ["生產力"]
 tags: ["工具", "Designer"]
 ---

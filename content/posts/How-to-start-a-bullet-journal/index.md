@@ -6,6 +6,7 @@ cover:
     image: 00_bullet_cover.png
     alt: 'Bullet Journal Cover'
     caption: ''
+    relative: true
 categories: ["筆記"]
 tags: ["工具", "自我", "反思"]
 ---
