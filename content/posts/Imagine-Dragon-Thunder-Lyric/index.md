@@ -6,6 +6,7 @@ cover:
     image: 
     alt: ''
     caption: ''
+    relative: true
 categories: [""]
 tags: ["", ""]
 draft: true # 是否为草稿

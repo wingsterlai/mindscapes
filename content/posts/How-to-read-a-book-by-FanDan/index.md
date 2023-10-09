@@ -6,6 +6,7 @@ cover:
     image: 
     alt: 'FanDan Book Cover'
     caption: ''
+    relative: true
 categories: ["讀書心得"]
 tags: ["閱讀"]
 ---

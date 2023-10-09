@@ -6,6 +6,7 @@ cover:
     image:  
     alt: ''
     caption: ''
+    relative: true
 categories: ["電子閱讀器"]
 tags: ["文石"]
 ---

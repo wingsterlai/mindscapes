@@ -6,6 +6,7 @@ cover:
     image: kindle.png
     alt: 'Kindle'
     caption: ''
+    relative: true
 categories: ["電子閱讀器"]
 tags: ["Kindle", "文石"]
 ---

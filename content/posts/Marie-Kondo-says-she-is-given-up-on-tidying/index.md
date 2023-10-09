@@ -6,6 +6,7 @@ cover:
     image: 
     alt: ''
     caption: ''
+    relative: true
 categories: ["閒聊"]
 tags: ["自我", "反思"]
 ---
