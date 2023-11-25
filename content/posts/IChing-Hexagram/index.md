@@ -1,6 +1,6 @@
 ---
 title: "易經《卦名次序歌》自製圖檔下載"
-description: 
+description: 幫助記憶易經六十四卦順序
 date: 2023-11-25T14:00:42+08:00
 cover:
     image: IChing-Hexagram_cover.png
