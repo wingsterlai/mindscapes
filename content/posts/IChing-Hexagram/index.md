@@ -38,7 +38,7 @@ draft: ture # 是否为草稿
 - [《卦序歌》Light Mode 下載](https://mindscapes.wingster.cc/posts/IChing-Hexagram/IChing-Hexagram-Song-LightMode.png)
 
 
-![《易經﹒卦序歌》南宋理學家 朱熹](IChing-Hexagram-Song-LightMode.png.png)
+![《易經﹒卦序歌》南宋理學家 朱熹](IChing-Hexagram-Song-LightMode.png)
 
 
 - [《卦序歌》Dark Mode 下載](https://mindscapes.wingster.cc/posts/IChing-Hexagram/IChing-Hexagram-Song-DarkMode.png)
