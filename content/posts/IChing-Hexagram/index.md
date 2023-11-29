@@ -44,3 +44,17 @@ draft: ture # 是否为草稿
 - [《卦序歌》Dark Mode 下載](https://mindscapes.wingster.cc/posts/IChing-Hexagram/IChing-Hexagram-Song-DarkMode.png)
 
 ![《易經﹒卦序歌》南宋理學家 朱熹](IChing-Hexagram-Song-DarkMode.png)
+
+---
+
+關於讀音的部分：
+
+**比卦的比**
+
+有的人說念ㄅㄧˇ，我這裡用ㄅㄧˋ。
+主要是參考傅佩榮教授《樂天知命》有特別標示比(ㄅㄧˋ)的注音，另外在吳耀輝《周易古占筮法》裡有寫比為親信、親密之意，剛好和[教育部重編國語辭典修訂版](https://dict.revised.moe.edu.tw/dictView.jsp?ID=331&q=1&word=%E6%AF%94#order2) 裡念法為比ㄅㄧˋ的解釋相同，故採ㄅㄧˋ。
+
+**夬卦的夬應該念ㄍㄨㄞˋ或是ㄐㄩㄝˊ？**
+
+以目前教育部標準國語字典或是打字的時候，要打ㄍㄨㄞˋ字才跑得出來，傅佩榮教授書裡也是寫ㄍㄨㄞˋ。但在王思迅老師《易經白話講座》和吳耀輝《周易古占筮法》裡有提到，夬為玦得本字（可參考[甲骨密碼](http://www.jiagumm.com/html/jiaguwenzidian_4518.html)）以夬在易經裡的解釋，念ㄐㄩㄝˊ會比較正確。所以這裡我就不特別標示，觀看個人喜好念法解讀。
+
