@@ -1,7 +1,7 @@
 ---
 title: "專注力渙散的時代，看書如何專心？"
 description: 
-date: 2024-01-06T14:39:42+08:00
+date: 2024-01-06T14:24:42+08:00
 cover:
     image: XXX.png
     alt: ''
