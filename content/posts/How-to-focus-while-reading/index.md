@@ -3,7 +3,7 @@ title: "專注力渙散的時代，看書如何專心？"
 description: 
 date: 2024-01-06T14:24:42+08:00
 cover:
-    image: XXX.png
+    image:
     alt: ''
     caption: ''
     relative: true # 預覽圖在臉書可以正常顯示
