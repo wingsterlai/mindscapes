@@ -3,7 +3,7 @@ title: "大事關懷 01 - 如何「病得很健康？」"
 description: 
 date: 2024-05-14T23:43:42+08:00
 cover:
-    image:
+    image: hospice-01-sick-healthily.png
     alt: ''
     caption: ''
     relative: true # 預覽圖在臉書可以正常顯示
