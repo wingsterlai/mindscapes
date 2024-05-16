@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>電子閱讀器 on MindScapes</title>
+    <link>https://mindscapes.wingster.cc/categories/%E9%9B%BB%E5%AD%90%E9%96%B1%E8%AE%80%E5%99%A8/</link>
+    <description>Recent content in 電子閱讀器 on MindScapes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 17 Sep 2023 20:04:42 +0800</lastBuildDate><atom:link href="https://mindscapes.wingster.cc/categories/%E9%9B%BB%E5%AD%90%E9%96%B1%E8%AE%80%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何將 Google Play 圖書裡買的書放進 Kindle？ (for MAC)</title>
+      <link>https://mindscapes.wingster.cc/posts/google-play-to-kindle/</link>
+      <pubDate>Sun, 17 Sep 2023 20:04:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/google-play-to-kindle/</guid>
+      <description>要用 Kindle 買書除了在 Amazon 之外，我通常會去 Google Play 買，因為有的書價錢比較便宜。 但這時候就會遇到平台不共用的問題，接下來會告訴大家怎麼把在 Google Play 上面買的書裝</description>
+    </item>
+    
+    <item>
+      <title>離開文石，重回 Kindle 的懷抱</title>
+      <link>https://mindscapes.wingster.cc/posts/from-boox-to-kindle/</link>
+      <pubDate>Fri, 10 Feb 2023 20:04:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/from-boox-to-kindle/</guid>
+      <description>最近把買了一年的文石 Note5 電子閱讀器賣掉，忍不住誘惑還是買了一台 Kindle Paperwhite 5，這算是我人生中買的第三台 Kindle（第一台逛通化街被偷，不得不說小偷很</description>
+    </item>
+    
+    <item>
+      <title>使用文石電子書，如何儲存讀書筆記</title>
+      <link>https://mindscapes.wingster.cc/posts/how-to-save-reading-notes-using-boox/</link>
+      <pubDate>Wed, 01 Jun 2022 20:04:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/how-to-save-reading-notes-using-boox/</guid>
+      <description>我自己在使用文石的時候，因為功能很多，很多功能又只顯示 Icon ， Icon 很多又不是很常見，於是常常會出現功能很多但是不知道怎麼用，最後就會每一個都點點看</description>
+    </item>
+    
+  </channel>
+</rss>

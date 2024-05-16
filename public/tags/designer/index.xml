@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designer on MindScapes</title>
+    <link>https://mindscapes.wingster.cc/tags/designer/</link>
+    <description>Recent content in Designer on MindScapes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 29 Apr 2023 14:41:42 +0800</lastBuildDate><atom:link href="https://mindscapes.wingster.cc/tags/designer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>宅宅設計師的 Raycast 使用心得</title>
+      <link>https://mindscapes.wingster.cc/posts/how-to-use-raycast-as-a-designer/</link>
+      <pubDate>Sat, 29 Apr 2023 14:41:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/how-to-use-raycast-as-a-designer/</guid>
+      <description>什麼是 Raycast ? 最近被精通各種密技的同事推坑開始使用 Raycast，結果被他強大的功能驚艷到！ 之前其實也沒有用過像 Raycast 類似的工具，Raycast 有點</description>
+    </item>
+    
+    <item>
+      <title>UX Engineer 是設計師還是工程師？</title>
+      <link>https://mindscapes.wingster.cc/posts/what-is-ux-engineer/</link>
+      <pubDate>Wed, 12 Oct 2022 20:04:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/what-is-ux-engineer/</guid>
+      <description>前言 最近聽了 SAVVY UX SUMMIT 2022 其中一位講者 Siva Ranjan 演講的主題 「Adios Figma, Hola JavaScript! My journey from being a UX designer to a front-end engineer」，主要在介紹 UX Engineer (以下簡稱 UXE) 這個新興的</description>
+    </item>
+    
+  </channel>
+</rss>

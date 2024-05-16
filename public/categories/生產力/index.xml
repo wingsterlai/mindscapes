@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生產力 on MindScapes</title>
+    <link>https://mindscapes.wingster.cc/categories/%E7%94%9F%E7%94%A2%E5%8A%9B/</link>
+    <description>Recent content in 生產力 on MindScapes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 06 Jan 2024 14:24:42 +0800</lastBuildDate><atom:link href="https://mindscapes.wingster.cc/categories/%E7%94%9F%E7%94%A2%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>專注力渙散的時代，看書如何專心？</title>
+      <link>https://mindscapes.wingster.cc/posts/how-to-focus-while-reading/</link>
+      <pubDate>Sat, 06 Jan 2024 14:24:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/how-to-focus-while-reading/</guid>
+      <description>有的時候看書，甚至在看自己很有興趣的書，邊看到某一個章節，就想到某一件事，或是想到另一本書想去翻，或是想到某件雜事要做，怕沒有做就忘了。最後</description>
+    </item>
+    
+    <item>
+      <title>宅宅設計師的 Raycast 使用心得</title>
+      <link>https://mindscapes.wingster.cc/posts/how-to-use-raycast-as-a-designer/</link>
+      <pubDate>Sat, 29 Apr 2023 14:41:42 +0800</pubDate>
+      
+      <guid>https://mindscapes.wingster.cc/posts/how-to-use-raycast-as-a-designer/</guid>
+      <description>什麼是 Raycast ? 最近被精通各種密技的同事推坑開始使用 Raycast，結果被他強大的功能驚艷到！ 之前其實也沒有用過像 Raycast 類似的工具，Raycast 有點</description>
+    </item>
+    
+  </channel>
+</rss>
