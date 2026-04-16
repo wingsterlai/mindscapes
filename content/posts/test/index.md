@@ -2,7 +2,7 @@
 title: 2026 第一篇
 layout:
 url: /posts/test
-summary: archives
+summary:
 ---
 使用 Cloud Cannon 管理 blog
 

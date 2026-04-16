@@ -1,16 +1,19 @@
-# CloudCannon 導航設定
+source: /
 collections_config:
   posts:
     path: content/posts
     name: Posts
     icon: edit_note
+    disable_url: false
     description: 所有的部落格文章都在這裡
-
-# 編輯器設定
+    _inputs:
+      $.summary:
+        cascade: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 _enabled_editors:
   - content
   - visual
-
-# 指定 Hugo 的基本設定
-source: /
 base_url: /
+timezone: Etc/UTC
