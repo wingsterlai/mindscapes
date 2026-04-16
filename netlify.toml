@@ -1,10 +1,12 @@
+# 強行關閉那個討厭的 Lighthouse 插件
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+  [plugins.inputs]
+    enabled = false
+
 [build]
   publish = "public"
   command = "git submodule update --init --recursive && hugo --gc --minify"
-  
-  # 直接在這裡強制指定 Node 版本為 18，對齊插件需求
-  [build.environment]
-    NODE_VERSION = "18"
 
 [context.production.environment]
   HUGO_VERSION = "0.119.0"
