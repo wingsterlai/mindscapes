@@ -1,8 +1,8 @@
 ---
 title: 2026 第一篇
-date: 2026-04-17
-layout: "posts"
-url: "/posts/my-new-post/"
+date: 2026-04-16T00:00:00Z
+layout: posts
+url: /posts/my-new-post/
 ---
 使用 Cloud Cannon 管理 blog
 
