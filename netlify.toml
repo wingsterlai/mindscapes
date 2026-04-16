@@ -1,10 +1,12 @@
 [build]
   publish = "public"
-  # 加上抓取主題的指令，確保 Netlify 能看到 PaperMod
   command = "git submodule update --init --recursive && hugo --gc --minify"
+  
+  # 直接在這裡強制指定 Node 版本為 18，對齊插件需求
+  [build.environment]
+    NODE_VERSION = "18"
 
 [context.production.environment]
-  # 對齊 CloudCannon 的版本
   HUGO_VERSION = "0.119.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
