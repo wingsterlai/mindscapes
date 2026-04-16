@@ -1,21 +1,23 @@
 ---
-title: "如何將 Google Play 圖書裡買的書放進 Kindle？ (for MAC)"
-description: 
+title: "如何將 Google Play 圖書裡買的書放進 Kindle？ (for\_MAC)"
+description:
 date: 2023-09-17T20:04:42+08:00
 cover:
     image: 01_gp.png
-    alt: 'Goggle Play Store'
+    alt: Goggle Play Store
     caption: ''
     relative: true
-categories: ["電子閱讀器"]
-tags: ["Kindle"]
+categories:
+    - 電子閱讀器
+tags:
+    - Kindle
 ---
-
 要用 Kindle 買書除了在 Amazon 之外，我通常會去 Google Play 買，因為有的書價錢比較便宜。
 
 但這時候就會遇到平台不共用的問題，接下來會告訴大家怎麼把在 Google Play 上面買的書裝到 Kindle 裡閱讀。
 
 # Step 1: 先確認 Google Play 上你要買的書，是否有「文字重排」的功能
+
 在你要買的書的頁面往下滑，點擊「關於本電子書」
 
 ![Goggle Play Store - About this Book](02_gp.png)
@@ -36,8 +38,9 @@ tags: ["Kindle"]
 
 ![Alt text](06_gp.png)
 
-# Step 2: 將 ACSM 檔案轉為 ePub 檔案：Adobe Digital Editions
-可以看到剛下載的檔案副檔名是 .acsm，接下來我們要把 .acsm 轉成 .epub，這時就要靠 Adobe Digital Editions 這套軟體
+# Step 2: 將 ACSM 檔案轉為 ePub 檔案：Adobe Digital&nbsp;Editions
+
+可以看到剛下載的檔案副檔名是&nbsp;.acsm，接下來我們要把&nbsp;.acsm 轉成&nbsp;.epub，這時就要靠 Adobe Digital Editions 這套軟體
 
 [下載 Adobe Digital Editions](https://www.adobe.com/tw/solutions/ebook/digital-editions/download.html)
 
@@ -49,7 +52,7 @@ tags: ["Kindle"]
 
 ![Alt text](08_gp.png)
 
-Finder 裏面的自動產出 .epub 檔案，代表轉檔成功
+Finder 裏面的自動產出&nbsp;.epub 檔案，代表轉檔成功
 
 ![Alt text](09_gp.png)
 
@@ -63,11 +66,11 @@ Finder 裏面的自動產出 .epub 檔案，代表轉檔成功
 
 下載好 Clibre 以後，我們要先去下載 DeDRM 這個外掛來破解 DRM 保護
 
-[下載 DeDRM_tools_10.0.9.zip](https://github.com/noDRM/DeDRM_tools/releases) (選擇最新版，目前是 v10.0.9)
+[下載 DeDRM\_tools\_10.0.9.zip](https://github.com/noDRM/DeDRM_tools/releases) (選擇最新版，目前是 v10.0.9)
 
 ![Alt text](11_gp.png)
 
-DeDRM_tool_10.0.9.zip 解壓縮以後會看到一個檔案叫 DeDRM_plugin.zip
+DeDRM\_tool\_10.0.9.zip 解壓縮以後會看到一個檔案叫 DeDRM\_plugin.zip
 
 ![Alt text](12_gp.png)
 
@@ -79,7 +82,7 @@ DeDRM_tool_10.0.9.zip 解壓縮以後會看到一個檔案叫 DeDRM_plugin.zip
 
 ![Alt text](14_gp.png)
 
-選取 DeDRM_plugin.zip
+選取 DeDRM\_plugin.zip
 
 ![Alt text](15_gp.png)
 
@@ -91,7 +94,7 @@ DeDRM_tool_10.0.9.zip 解壓縮以後會看到一個檔案叫 DeDRM_plugin.zip
 
 ![Alt text](17_gp.png)
 
-現在到 Calibre 點擊左上角的「加入書本」，把剛剛已經轉成 .epub 的檔案打開，這時外掛就會自動幫你破解書本的 DRM 保護。
+現在到 Calibre 點擊左上角的「加入書本」，把剛剛已經轉成&nbsp;.epub 的檔案打開，這時外掛就會自動幫你破解書本的 DRM 保護。
 
 ![Alt text](18_gp.png)
 
