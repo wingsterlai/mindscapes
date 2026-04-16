@@ -1,31 +1,13 @@
-# 強行關閉那個討厭的 Lighthouse 插件
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
-  [plugins.inputs]
-    enabled = false
-
 [build]
   publish = "public"
   command = "git submodule update --init --recursive && hugo --gc --minify"
 
-[context.production.environment]
+[build.environment]
+  # 拉高 Node 版本，消除你看到的那個 16.x 警告
+  NODE_VERSION = "20"
+  # 對齊 CloudCannon 的 Hugo 版本
   HUGO_VERSION = "0.119.0"
+
+[context.production.environment]
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-
-[context.deploy-preview]
-  command = "git submodule update --init --recursive && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.119.0"
-
-[context.branch-deploy]
-  command = "git submodule update --init --recursive && hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-  HUGO_VERSION = "0.119.0"
-
-[[redirects]]
-  from = "/npmjs/*"
-  to = "/npmjs/"
-  status = 200
