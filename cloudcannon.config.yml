@@ -1,132 +1,16 @@
-paths:
-  static: static
-  uploads: static/uploads
-timezone: Asia/Taipei
-markdown:
-  engine: commonmark
-  options:
-    gfm: true
-    linkify: false
-    table: false
-    strikethrough: false
-    subscript: false
-    superscript: false
-    heading_ids: false
-    breaks: false
-    xhtml: false
-    attributes: false
-    typographer: false
-    treat_indentation_as_code: true
-_snippets_imports:
-  hugo:
-    exclude:
-      - hugo_instagram
+# CloudCannon 導航設定
 collections_config:
-  pages:
-    path: content
-    icon: wysiwyg
-  posts_cant_hurt_me_david_goggins:
-    path: content/posts/cant-hurt-me-david-goggins
-    icon: sports_and_outdoors
-    glob:
-      - '!_index.md'
-  posts_choosing_the_right_book:
-    path: content/posts/Choosing-the-right-book
-    icon: position_top_right
-    glob:
-      - '!_index.md'
-  posts_from_boox_to_kindle:
-    path: content/posts/from-BOOX-to-Kindle
-    icon: position_bottom_right
-    glob:
-      - '!_index.md'
-  posts_google_play_to_kindle:
-    path: content/posts/Google-Play-to-Kindle
-    icon: google_tv_remote
-    glob:
-      - '!_index.md'
-  posts_highlight_tips_by_eiji_doi:
-    path: content/posts/Highlight-tips-by-Eiji-Doi
-    icon: highlight_mouse_cursor
-    glob:
-      - '!_index.md'
-  posts_hospice_01_sick_healthily:
-    path: content/posts/hospice-01-sick-healthily
-    icon: photo_size_select_small
-    glob:
-      - '!_index.md'
-  posts_hospice_02_inform_about_illness:
-    path: content/posts/hospice-02-inform-about-illness
-    icon: perm_device_information
-    glob:
-      - '!_index.md'
-  posts_hospice_03_what_is_chanting_service:
-    path: content/posts/hospice-03-what-is-chanting-service
-    icon: home_repair_service
-    glob:
-      - '!_index.md'
-  posts_how_not_to_die_alone:
-    path: content/posts/How-not-to-die-alone
-    icon: pest_control_rodent
-    glob:
-      - '!_index.md'
-  posts_how_to_focus_while_reading:
-    path: content/posts/How-to-focus-while-reading
-    icon: pest_control_rodent
-    glob:
-      - '!_index.md'
-  posts_how_to_read_a_book_by_fan_dan:
-    path: content/posts/How-to-read-a-book-by-FanDan
-    icon: font_download_off
-    glob:
-      - '!_index.md'
-  posts_how_to_read_a_book_by_fan_dan_reading_list:
-    path: content/posts/How-to-read-a-book-by-FanDan-reading-list
-    icon: featured_seasonal_and_gifts
-    glob:
-      - '!_index.md'
-  posts_how_to_save_reading_notes_using_boox:
-    path: content/posts/How-to-save-reading-notes-using-BOOX
-    icon: do_not_disturb_on_total_silence
-    glob:
-      - '!_index.md'
-  posts_how_to_start_a_bullet_journal:
-    path: content/posts/How-to-start-a-bullet-journal
-    icon: nest_thermostat_e_eu
-    glob:
-      - '!_index.md'
-  posts_how_to_use_raycast_as_a_designer:
-    path: content/posts/How-to-use-Raycast-as-a-designer
-    icon: chromecast_device
-    glob:
-      - '!_index.md'
-  posts_i_ching_hexagram:
-    path: content/posts/IChing-Hexagram
-    icon: stack_hexagon
-    glob:
-      - '!_index.md'
-  posts_imagine_dragon_thunder_lyric:
-    path: content/posts/Imagine-Dragon-Thunder-Lyric
-    icon: books_movies_and_music
-    glob:
-      - '!_index.md'
-  posts_karma_book_review:
-    path: content/posts/Karma-book-review
-    icon: format_color_reset
-    glob:
-      - '!_index.md'
-  posts_marie_kondo_says_she_is_given_up_on_tidying:
-    path: content/posts/Marie-Kondo-says-she-is-given-up-on-tidying
-    icon: data_loss_prevention
-    glob:
-      - '!_index.md'
-  posts_template:
-    path: content/posts/_template
-    icon: nest_remote
-    glob:
-      - '!_index.md'
-  posts_what_is_ux_engineer:
-    path: content/posts/What-is-UX-Engineer
-    icon: format_underlined
-    glob:
-      - '!_index.md'
+  posts:
+    path: content/posts
+    name: Posts
+    icon: edit_note
+    description: 所有的部落格文章都在這裡
+
+# 編輯器設定
+_enabled_editors:
+  - content
+  - visual
+
+# 指定 Hugo 的基本設定
+source: /
+base_url: /
