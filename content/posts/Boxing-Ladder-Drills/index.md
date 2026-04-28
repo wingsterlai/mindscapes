@@ -42,9 +42,9 @@ tags:
 
 ---
 
-### 4\. 跳躍進出（雙腳跳）
-
 ![boxing_ladder_drill_04](boxing_ladder_drill_04.png "boxing_ladder_drill_04")
+
+### 4\. 跳躍進出（雙腳跳）
 
 * **動作：** 類似第一種練習，但改為「跳躍」的方式。
 * **細節：** 雙腳同時跳進格內，再雙腳同時跳出。
