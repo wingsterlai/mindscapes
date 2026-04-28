@@ -17,7 +17,7 @@ tags:
 
 &nbsp;
 
-![boxing_ladder_drill_01](/content/posts/Boxing-Ladder-Drills/boxing_ladder_drill_01.png "boxing_ladder_drill_01")
+![boxing_ladder_drill_01](boxing_ladder_drill_01.png "boxing_ladder_drill_01")
 
 * **動作：** 每一格都要踩四步。例如右腳先進、左腳跟進，接著右腳踏出格、左腳跟出格。
 
