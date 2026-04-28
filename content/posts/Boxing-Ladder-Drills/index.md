@@ -9,8 +9,9 @@ categories:
 tags:
   - 拳擊
 ---
+近期在對練的時候，深感腳步移動的不足，頗需要加強，乾脆自己畫個圖，整理一下繩梯的基礎練習，給未來想隨時想練習的自己。
 
-以下練習方式主要是參照 [ICE的拳擊教室](https://www.youtube.com/watch?v=VmGM-UHhZvE&t=198s) 摘要筆記。
+以下練習方式主要是參照 [ICE的拳擊教室](https://www.youtube.com/watch?v=VmGM-UHhZvE&amp;t=198s) 摘要筆記。
 
 如果你想直接看教學，請[點此跳轉到影片](#video-section)。
 
@@ -62,4 +63,4 @@ tags:
 
 <div id="video-section"></div>
 
-{{< youtube VmGM-UHhZvE >}}
+{{&lt; youtube VmGM-UHhZvE &gt;}}
