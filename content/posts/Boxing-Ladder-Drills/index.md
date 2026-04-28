@@ -61,6 +61,6 @@ tags:
 
 ---
 
-### 教學影片 \{#video-section\}
+### 教學影片 {#video-section}
 
-{{&lt; youtube VmGM-UHhZvE &gt;}}
+{{< youtube VmGM-UHhZvE >}}
