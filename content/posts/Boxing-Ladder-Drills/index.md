@@ -4,6 +4,11 @@ date: 2026-04-27T00:00:00Z
 draft: false
 layout: posts
 url: /posts/Boxing-Ladder-Drills/
+
+categories:
+    - 武術
+tags:
+    - 拳擊
 ---
 近期在對練的時候，深感腳步移動的不足，頗需要加強，乾脆自己畫個圖，整理一下繩梯的基礎練習，給未來想隨時想練習的自己。
 
