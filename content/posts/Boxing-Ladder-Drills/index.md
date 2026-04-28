@@ -9,12 +9,10 @@ categories:
 tags:
   - 拳擊
 ---
-<p>
-  以下練習方式主要是參照 
-  <a href="https://www.youtube.com/watch?v=VmGM-UHhZvE&t=198s" target="_blank">ICE的拳擊教室</a> 
-  摘要筆記。<br> 
-  如果你想直接看教學，請<a href="#video-section">點此跳轉到影片</a>。
-</p>
+
+以下練習方式主要是參照 [ICE的拳擊教室](https://www.youtube.com/watch?v=VmGM-UHhZvE&t=198s) 摘要筆記。
+
+如果你想直接看教學，請[點此跳轉到影片](#video-section)。
 
 ### <br><br>1\. 進進出出（4步）
 
