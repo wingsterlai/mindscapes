@@ -11,9 +11,7 @@ tags:
 ---
 近期在對練的時候，深感腳步移動的不足，頗需要加強，乾脆自己畫個圖，整理一下繩梯的基礎練習，給未來想隨時想練習的自己。
 
-以下練習方式主要是參照 [ICE的拳擊教室](https://www.youtube.com/watch?v=VmGM-UHhZvE&amp;t=198s) 摘要筆記。
-
-如果你想直接看教學，請[點此跳轉到影片](#video-section)。
+以下練習方式主要是參考 ICE 的拳擊教室的摘要筆記。如果想直接看教學影片請[點此](#video-section)。
 
 ### <br><br>1\. 進進出出（4步）
 
@@ -61,6 +59,6 @@ tags:
 
 ---
 
-### 教學影片 {#video-section}
+### 教學影片 \{#video-section\}
 
-{{< youtube VmGM-UHhZvE >}}
+{{&lt; youtube VmGM-UHhZvE &gt;}}
