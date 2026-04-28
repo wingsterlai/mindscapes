@@ -15,8 +15,6 @@ tags:
 
 ### <br><br>1\. 進進出出（4步）
 
-&nbsp;
-
 ![boxing_ladder_drill_01](boxing_ladder_drill_01.png "boxing_ladder_drill_01")
 
 * **動作：** 每一格都要踩四步。例如右腳先進、左腳跟進，接著右腳踏出格、左腳跟出格。
@@ -31,12 +29,16 @@ tags:
 * **順序：** 先一腳踏入格內，另一腳跟進，接著第一隻腳踏出格，循環往復。
 * **重點：** 保持輕快的節奏感
 
+  &nbsp;
+
 ### 3\. 進進出（橫向3步）
 
 ![boxing_ladder_drill_03](boxing_ladder_drill_03.png "boxing_ladder_drill_03")
 
 * **動作：** 身體橫向對著繩梯，腳步是前進和斜後方的位移。
 * **目的：** 訓練腳步在不同角度切換時的穩定性。
+
+  &nbsp;
 
 ### 4\. 跳躍進出（雙腳跳）
 
