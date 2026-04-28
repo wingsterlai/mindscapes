@@ -13,17 +13,21 @@ tags:
 
 以下練習方式主要是參考 ICE 的拳擊教室的摘要筆記。如果想直接看教學影片請[點此](#video-section)。
 
-### <br><br>1\. 進進出出（4步）
+###
 
 ![boxing_ladder_drill_01](boxing_ladder_drill_01.png "boxing_ladder_drill_01")
+
+### 1\. 進進出出（4步）
 
 * **動作：** 每一格都要踩四步。例如右腳先進、左腳跟進，接著右腳踏出格、左腳跟出格。
 
 &nbsp;
 
-### 2\. 進進出（3步）
+###
 
 ![boxing_ladder_drill_02](boxing_ladder_drill_02.png "boxing_ladder_drill_02")
+
+### 2\. 進進出（3步）
 
 * **動作：** 每一格踩三步。
 * **順序：** 先一腳踏入格內，另一腳跟進，接著第一隻腳踏出格，循環往復。
@@ -31,9 +35,11 @@ tags:
 
   &nbsp;
 
-### 3\. 進進出（橫向3步）
+###
 
 ![boxing_ladder_drill_03](boxing_ladder_drill_03.png "boxing_ladder_drill_03")
+
+### 3\. 進進出（橫向3步）
 
 * **動作：** 身體橫向對著繩梯，腳步是前進和斜後方的位移。
 * **目的：** 訓練腳步在不同角度切換時的穩定性。
