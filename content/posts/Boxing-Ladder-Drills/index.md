@@ -1,5 +1,5 @@
 ---
-title: '[筆記] 四種繩梯基礎練習'
+title: '四種繩梯基礎練習'
 date: 2026-04-27T00:00:00Z
 draft: false
 layout: posts
@@ -61,6 +61,10 @@ tags:
 
 ---
 
-### 教學影片 \{#video-section\}
+&nbsp;
+
+<h3 id="video-section">教學影片</h3>
+
+&nbsp;
 
 {{&lt; youtube VmGM-UHhZvE &gt;}}
